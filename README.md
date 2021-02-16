@@ -92,6 +92,8 @@ Happy Hacking
 
 hakanonymos@hotmail.com
 
+Telegram : https://t.me/hakanonymos
+
 ICQ,Skype,instagram : hakanonymos
 
 
